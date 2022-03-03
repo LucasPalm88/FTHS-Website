@@ -1,3 +1,7 @@
+.top {
+  background-image: url('https://st.depositphotos.com/2944235/3767/i/600/depositphotos_37670251-stock-photo-ice-background.jpg');
+}
+
 .logo {
   display: block;
   margin-left: auto;
@@ -11,4 +15,24 @@
 
 body {
   text-align: center;
+}
+
+body {
+  background-color: #80d4ff;
+}
+
+h1 {
+  color: white;
+  text-shadow: 3px 2px midnightblue;
+  font-size: 42px;
+}
+
+.top {
+  border: 5px solid black;
+}
+
+.navtext {
+  color: white;
+  text-shadow: 3px 2px midnightblue;
+  font-size: 2vw;
 }
