@@ -13,9 +13,6 @@
   border: 5px solid black;
 }
 
-body {
-  text-align: center;
-}
 
 body {
   background-color: #80d4ff;
@@ -35,4 +32,8 @@ h1 {
   color: white;
   text-shadow: 3px 2px midnightblue;
   font-size: 2vw;
+}
+
+tr {
+  border: 5px solid black;
 }
