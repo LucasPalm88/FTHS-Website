@@ -12,3 +12,20 @@ body {
   text-shadow: 3px 2px midnightblue;
   font-size: 2vw;
 }
+
+.arena {
+  border: 5px solid black;
+}
+
+.top {
+  background-image: url('https://st.depositphotos.com/2944235/3767/i/600/depositphotos_37670251-stock-photo-ice-background.jpg');
+}
+
+.top {
+  border: 5px solid black;
+}
+
+h1 {
+  color: white;
+  text-shadow: 3px 2px midnightblue;
+  font-size: 42px;

@@ -9,11 +9,40 @@ body {
 }
 
 
-body {
+.inside {
  background-image: url("https://media.istockphoto.com/photos/ice-blue-background-picture-id627728222?k=20&m=627728222&s=170667a&w=0&h=ztNjk1-zEpecQF8bdqSGooq64CzN3KuikB_bOU_56g0=");
 }
 
 .inside {
   background-color: white;
   margin: 200px;
+}
+
+.top {
+  border: 5px solid black;
+}
+
+.top {
+  background-image: url('https://st.depositphotos.com/2944235/3767/i/600/depositphotos_37670251-stock-photo-ice-background.jpg');
+}
+
+h1 {
+  color: white;
+  text-shadow: 3px 2px midnightblue;
+  font-size: 42px;
+}
+
+body {
+  background-color: #80d4ff;
+}
+
+.inside {
+  border: 10px solid black;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+  text-shadow: 3px 2px white;
+  font-size: 25px;
 }
